@@ -49,4 +49,4 @@ if change > 0:                          # checks if there is change to provide c
             else:
                 print('{} Penny'.format(change // 1))
 else:
-    print('No change')                  # tells the user to fuck off if there is nothing to convert
+    print('No change')                  # tells the user to bugger off if there is nothing to convert

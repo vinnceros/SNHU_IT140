@@ -17,14 +17,14 @@
 # 4.15.1: LAB: Password modifier
 # 
 # ================================================================== #
-
+# 
 # original zybooks code 
-
-word = input()
-password = ''
-
-''' Type your code here. '''
-
+# 
+# word = input()
+# password = ''
+# 
+# ''' Type your code here. '''
+# 
 # ================================================================== #
 
 # this code passes all zybooks tests 
